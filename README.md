@@ -25,6 +25,19 @@ Experiência, também, em Eletrônica, Automação, Controle e Sistemas de Comun
 
 <br>
 
+<h1 align="center"></h1>
+
+## Github Stats
+<center>
+<br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YagoLisboa&theme=transparent&bg_color=FFF&border_color=30A3DC&show_icons=true&icon_color=5c7cfa&title_color=5c7cfa&text_color=000) <br><br>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YagoLisboa&layout=compact&bg_color=FFF&border_color=30A3DC&title_color=5c7cfa&text_color=000)
+
+<br>
+</center>
+<h1 align="center"></h1>
+
 <center>
 
 ### Connect with Me <br>
