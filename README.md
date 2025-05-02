@@ -29,7 +29,6 @@ Experiência, também, em Eletrônica, Automação, Controle e Sistemas de Comun
 
 ## Github Stats
 <center>
-<br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YagoLisboa&theme=transparent&bg_color=FFF&border_color=30A3DC&show_icons=true&icon_color=5c7cfa&title_color=5c7cfa&text_color=000) <br><br>
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YagoLisboa&layout=compact&bg_color=FFF&border_color=30A3DC&title_color=5c7cfa&text_color=000)
@@ -37,6 +36,32 @@ Experiência, também, em Eletrônica, Automação, Controle e Sistemas de Comun
 <br>
 </center>
 <h1 align="center"></h1>
+
+## My Technologies <br><br>
+
+### 💻 Programming and Markup Languages
+
+<p>
+    <a href="https://github.com/search?q=YagoLisboa&type=users"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+    <a href="https://github.com/search?q=YagoLisboa&type=users"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=YagoLisboa&type=users"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>    
+    <a href="https://github.com/search?q=YagoLisboa&type=users"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=YagoLisboa&type=users"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=oracle&logoColor=white" />
+    <img alt="C" src="https://img.shields.io/badge/-C-007396?style=flat-square&logo=c&logoColor=white" />
+    <a href="https://github.com/search?q=YagoLisboa&type=users"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    
+</p>
+
+### 📚 Frameworks and Libraries
+
+<p>
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+    
+</p>
 
 <center>
 
