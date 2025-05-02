@@ -127,6 +127,33 @@ Experiência, também, em Eletrônica, Automação, Controle e Sistemas de Comun
     <a href="#"><img alt="Miro" src="https://img.shields.io/badge/Miro-050038.svg?logo=miro&logoColor=white"></a> 
 </p>
 
+### 🔒 CyberSecurity and Network Engineering
+
+<p>
+  <img alt="WireShark" src="https://img.shields.io/badge/Wireshark-1679A7?logo=Wireshark&logoColor=white" />
+  <img alt="VM Ware" src="https://img.shields.io/badge/VMware-231f20?logo=VMware&logoColor=white" />
+  <img alt="Cisco Packet Tracer" src="https://img.shields.io/badge/Packet_tracer-1D6A9A?logo=Cisco&logoColor=white" />  
+</p>
+
+### ☁ Azure Data Engineering
+
+<p>
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?logo=microsoft-azure&logoColor=white" />
+  <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azure-devops&logoColor=white" />
+  <img alt="Azure Functions" src="https://img.shields.io/badge/Azure_Functions-0062AD?logo=azure-functions&logoColor=white" />
+  <img alt="DataBricks" src="https://img.shields.io/badge/Databricks-FF3621?logo=Databricks&logoColor=white" />
+</p>
+
+### ⚡ Electrical Engineering
+
+<p>
+  <img alt="AutoCAD" src="https://img.shields.io/badge/-AutoCAD-0078D7?style=flat-square&logo=autodesk&logoColor=white" />
+  <img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
+  <img alt="Simulink" src="https://img.shields.io/badge/Simulink-orange" />
+  <img alt="PVSyst" src="https://img.shields.io/badge/PVSyst-blue" /> 
+</p>
+
+<h1 align="center"></h1>
 <center>
 
 ### Connect with Me <br>
