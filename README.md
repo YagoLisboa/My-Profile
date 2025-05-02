@@ -63,6 +63,30 @@ Experiência, também, em Eletrônica, Automação, Controle e Sistemas de Comun
     
 </p>
 
+### 🗂️ Databases
+
+<p>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+</p>
+
+### 🫂 Team Work
+
+<p>
+  <img alt="Trello" src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white" />
+  <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
+  <img alt="Microsoft Teams" src="https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white" />
+</p>
+
+### 📑 Project Management
+
+<p>
+  <img alt="Agile" src="https://img.shields.io/badge/Agile-008080?style=flat-square&logo=agile&logoColor=white" />
+  <img alt="Scrum" src="https://img.shields.io/badge/Scrum-4A90E2?style=flat-square&logo=scrum&logoColor=white" />
+  <img alt="PMBOK" src="https://img.shields.io/badge/PMBOK-009688?style=flat-square&logo=pmbok&logoColor=white" />
+  <img alt="Kanban" src="https://img.shields.io/badge/Kanban-F9A825?style=flat-square&logo=kanban&logoColor=white" />
+</p>
+
 <center>
 
 ### Connect with Me <br>
