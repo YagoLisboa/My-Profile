@@ -24,3 +24,13 @@ Tenho experiência em Tecnologia da Informação, Educomunicação e Métodos de
 Experiência, também, em Eletrônica, Automação, Controle e Sistemas de Comunicações de Redes Industriais (Fieldbus), do Centro de Controle Integrado (CCI), pelo Programa de Desenvolvimento de Submarinos da Marinha do Brasil - Prosub/EBN da Odebrecht Engenharia e Construção-OEC (Construção do Complexo Naval Nuclear do Ministério da Defesa – a maior e mais importante obra militar e de engenharia, da história do Brasil).
 
 <br>
+
+<center>
+
+### Connect with Me <br>
+
+[![Github](https://img.shields.io/badge/Github-FFF?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/YagoLisboa/)
+<a href="https://www.linkedin.com/in/yago-lisboa-aa3b48163/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href =  "mailto:yagoo.lisboa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
+
+</center>
