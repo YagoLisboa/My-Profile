@@ -68,6 +68,8 @@ Experiência, também, em Eletrônica, Automação, Controle e Sistemas de Comun
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="PHPAdmin" src="https://img.shields.io/badge/phpmyadmin-6C78AF?logo=phpmyadmin&logoColor=white"></a>    
 </p>
 
 ### 🫂 Team Work
@@ -75,7 +77,10 @@ Experiência, também, em Eletrônica, Automação, Controle e Sistemas de Comun
 <p>
   <img alt="Trello" src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white" />
   <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" />
   <img alt="Microsoft Teams" src="https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white" />
+  <img alt="Google Meets" src="https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white" />
+  <img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white" />
 </p>
 
 ### 📑 Project Management
@@ -83,8 +88,8 @@ Experiência, também, em Eletrônica, Automação, Controle e Sistemas de Comun
 <p>
   <img alt="Agile" src="https://img.shields.io/badge/Agile-008080?style=flat-square&logo=agile&logoColor=white" />
   <img alt="Scrum" src="https://img.shields.io/badge/Scrum-4A90E2?style=flat-square&logo=scrum&logoColor=white" />
-  <img alt="PMBOK" src="https://img.shields.io/badge/PMBOK-009688?style=flat-square&logo=pmbok&logoColor=white" />
   <img alt="Kanban" src="https://img.shields.io/badge/Kanban-F9A825?style=flat-square&logo=kanban&logoColor=white" />
+  <img alt="PMBOK" src="https://img.shields.io/badge/PMBOK-009688?style=flat-square&logo=pmbok&logoColor=white" />
 </p>
 
 ### 🖌️ Design
@@ -97,22 +102,29 @@ Experiência, também, em Eletrônica, Automação, Controle e Sistemas de Comun
 ### 🖥️ Software and Tools
 
 <p>
-    <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?logo=googlecolab&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=white"></a>
-    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-FF9800.svg?logo=sublimetext&logoColor=white"></a>
+    <a href="#"><img alt="IntelliJ Idea" src="https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea"></a>
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=white"></a>
+    <a href="#"><img alt="NetBeans" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?logo=apache%20netbeans%20IDE&logoColor=white"></a>
+    <a href="#"><img alt="ArduinoIDE" src="https://img.shields.io/badge/Arduino_IDE-00979D?logo=arduino&logoColor=white"></a>
+    <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?logo=googlecolab&logoColor=white"></a>
+    <a href="#"><img alt="Google Docs" src="https://img.shields.io/badge/Google%20Docs-4285F4?logo=google-docs&logoColor=white"></a>
+    <a href="#"><img alt="Google Slides" src="https://img.shields.io/badge/Google%20Slides-FBBC04?logo=google-slides&logoColor=black"></a>
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft SharePoint" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white"></a>
+    <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white"></a>
+    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Power Shell" src="https://img.shields.io/badge/Power%20Shell-5391FE.svg?logo=powershell&logoColor=white"></a>
     <a href="#"><img alt="Vim" src="https://img.shields.io/badge/VIM-019733.svg?logo=vim&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Miro" src="https://img.shields.io/badge/Miro-050038.svg?logo=miro&logoColor=white"></a>
-    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
-    <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-    
+    <a href="#"><img alt="Miro" src="https://img.shields.io/badge/Miro-050038.svg?logo=miro&logoColor=white"></a> 
 </p>
 
 <center>
